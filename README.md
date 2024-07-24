@@ -31,7 +31,7 @@ This project focuses on developing a machine learning model to classify breast c
 ### 3. Model Evaluation
 
 - **Performance Metrics:** Evaluating the models using metrics such as accuracy.
-- 
+   
 ### 4. Model Deployment
 
 - **Final Model Selection:** Choose the best-performing model based on evaluation metrics.
